@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+h1 {
+    color: rgb(128, 128, 16);
+}
+h2 {
+    color: rgb(40, 100, 40);
+}
+
+h1#principal {
+    background-color: aquamarine;
+}
+
+.avancado {
+    background-color: aquamarine;
+}
+
+.basico{
+    background-color: azure;
+}
+.intermediario{
+    background-color: aquamarine;
+}

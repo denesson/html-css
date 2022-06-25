@@ -1,0 +1,19 @@
+<ol type="1">
+            <li>Palmeiras</li>
+            <li>Corinthians</li>
+            <li>Athletico-PR</li>
+            <li>Inter</li>
+            <li>Fluminense</li>
+            <li>Botafogo</li>
+            <li>Santos</li>
+            <li>São Paulo</li>
+            <li>Red Bull Bragantino</li>
+            <li>Avaí</li>
+            <li>Atlético-GO</li>
+            <li>Ceará</li>
+            <li>Coritiba</li>
+            <li>América-MG</li>
+            <li>Goiás</li>
+            <li>Cuiabá</li>
+            <li>Fortaleza</li>
+            <li>Juventude</li>

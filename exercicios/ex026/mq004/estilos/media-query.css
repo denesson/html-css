@@ -63,7 +63,7 @@ Grande telas: acima de 1200px
         background-image: url(../imagens/back-tv.jpg);
     }
     img#phone{display: none;}
-    img#tablet{display: nome;}
+    img#tablet{display: none;}
     img#print{display: none;}
     img#pc{display: none;}
     img#tv{display: block;}
